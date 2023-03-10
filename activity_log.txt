@@ -94,3 +94,4 @@ Activity at 2023-03-08T17:36:00: Refactor: optimize performance in core module
 Activity at 2023-03-09T18:36:00: Chore: update dependencies and build scripts
 Activity at 2023-03-09T15:08:00: Chore: update dependencies and build scripts
 Activity at 2023-03-10T13:09:00: Chore: update dependencies and build scripts
+Activity at 2023-03-10T14:19:00: Test: add unit tests for edge cases
