@@ -255,3 +255,4 @@ Activity at 2023-06-27T20:22:00: Docs: update API documentation and examples
 Activity at 2023-06-28T11:11:00: Chore: update dependencies and build scripts
 Activity at 2023-06-28T10:41:00: Refactor: optimize performance in core module
 Activity at 2023-06-28T18:20:00: Refactor: optimize performance in core module
+Activity at 2023-06-30T09:26:00: Test: add unit tests for edge cases
