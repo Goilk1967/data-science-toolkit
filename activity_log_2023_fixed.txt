@@ -1,1 +1,2 @@
 Fixed Activity at 2023-09-01T09:12:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2023-09-01T09:28:00: Docs: update API documentation and examples
