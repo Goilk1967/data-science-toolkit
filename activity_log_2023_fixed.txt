@@ -22,3 +22,4 @@ Fixed Activity at 2023-09-08T12:56:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-09-11T20:46:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-11T16:31:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-11T12:30:00: Update: internal model parameters
+Fixed Activity at 2023-09-12T12:23:00: Feature: add support for distributed processing
