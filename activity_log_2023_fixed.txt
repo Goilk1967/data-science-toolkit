@@ -45,3 +45,4 @@ Fixed Activity at 2023-09-18T17:36:00: Feature: add support for distributed proc
 Fixed Activity at 2023-09-18T16:55:00: Update: internal model parameters
 Fixed Activity at 2023-09-19T20:24:00: Style: improve code readability and formatting
 Fixed Activity at 2023-09-19T13:28:00: Update: internal model parameters
+Fixed Activity at 2023-09-19T13:12:00: Refactor: optimize performance in core module
