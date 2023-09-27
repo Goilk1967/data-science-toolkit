@@ -76,3 +76,4 @@ Fixed Activity at 2023-09-26T21:07:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-26T21:18:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-09-26T12:00:00: Update: internal model parameters
 Fixed Activity at 2023-09-26T20:32:00: Optimize: data loading strategy
+Fixed Activity at 2023-09-27T14:19:00: Fix: resolve memory leak in inference engine
