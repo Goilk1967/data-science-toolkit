@@ -90,3 +90,4 @@ Fixed Activity at 2023-09-28T10:24:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2023-09-28T11:26:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-28T20:51:00: Update: internal model parameters
 Fixed Activity at 2023-09-29T09:54:00: Style: improve code readability and formatting
+Fixed Activity at 2023-09-29T13:19:00: Refine: inference logic for edge devices
