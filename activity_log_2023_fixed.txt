@@ -243,3 +243,4 @@ Fixed Activity at 2023-11-09T15:40:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-11-09T10:19:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-11-09T09:55:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-11-10T16:16:00: Chore: update dependencies and build scripts
+Fixed Activity at 2023-11-10T11:45:00: Fix: resolve memory leak in inference engine
