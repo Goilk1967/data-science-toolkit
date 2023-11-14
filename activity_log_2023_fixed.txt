@@ -250,3 +250,4 @@ Fixed Activity at 2023-11-13T13:51:00: Optimize: data loading strategy
 Fixed Activity at 2023-11-13T18:29:00: Optimize: data loading strategy
 Fixed Activity at 2023-11-13T19:41:00: Style: improve code readability and formatting
 Fixed Activity at 2023-11-13T09:46:00: Style: improve code readability and formatting
+Fixed Activity at 2023-11-14T18:42:00: Fix: resolve memory leak in inference engine
