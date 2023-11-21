@@ -277,3 +277,4 @@ Fixed Activity at 2023-11-20T16:33:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-11-21T21:39:00: Docs: update API documentation and examples
 Fixed Activity at 2023-11-21T09:57:00: Update: internal model parameters
 Fixed Activity at 2023-11-21T16:17:00: Chore: update dependencies and build scripts
+Fixed Activity at 2023-11-21T18:09:00: Feature: add support for distributed processing
