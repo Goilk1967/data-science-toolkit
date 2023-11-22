@@ -274,3 +274,4 @@ Fixed Activity at 2023-11-20T20:31:00: Style: improve code readability and forma
 Fixed Activity at 2023-11-20T11:38:00: Docs: update API documentation and examples
 Fixed Activity at 2023-11-20T17:40:00: Optimize: data loading strategy
 Fixed Activity at 2023-11-20T16:33:00: Docs: update API documentation and examples
+Fixed Activity at 2023-11-21T21:39:00: Docs: update API documentation and examples
