@@ -327,3 +327,4 @@ Fixed Activity at 2023-12-01T21:41:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-12-04T13:58:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-12-04T10:13:00: Update: internal model parameters
 Fixed Activity at 2023-12-04T19:31:00: Docs: update API documentation and examples
+Fixed Activity at 2023-12-04T13:27:00: Feature: add support for distributed processing
