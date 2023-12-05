@@ -333,3 +333,4 @@ Fixed Activity at 2023-12-04T16:25:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2023-12-04T16:59:00: Update: internal model parameters
 Fixed Activity at 2023-12-05T16:52:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-12-05T12:29:00: Chore: update dependencies and build scripts
+Fixed Activity at 2023-12-05T16:13:00: Refine: inference logic for edge devices
