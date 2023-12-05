@@ -331,3 +331,4 @@ Fixed Activity at 2023-12-04T13:27:00: Feature: add support for distributed proc
 Fixed Activity at 2023-12-04T17:05:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-12-04T16:25:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-12-04T16:59:00: Update: internal model parameters
+Fixed Activity at 2023-12-05T16:52:00: Test: add unit tests for edge cases
