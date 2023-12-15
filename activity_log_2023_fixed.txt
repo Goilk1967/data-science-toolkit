@@ -375,3 +375,4 @@ Fixed Activity at 2023-12-14T16:03:00: Optimize: data loading strategy
 Fixed Activity at 2023-12-14T12:27:00: Docs: update API documentation and examples
 Fixed Activity at 2023-12-14T19:32:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-12-14T21:08:00: Docs: update API documentation and examples
+Fixed Activity at 2023-12-15T15:38:00: Update: internal model parameters
