@@ -376,3 +376,4 @@ Fixed Activity at 2023-12-14T12:27:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-12-14T19:32:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-12-14T21:08:00: Docs: update API documentation and examples
 Fixed Activity at 2023-12-15T15:38:00: Update: internal model parameters
+Fixed Activity at 2023-12-15T19:27:00: Refactor: simplify data transformation pipeline
