@@ -16,3 +16,4 @@ Fixed Activity at 2024-05-03T18:37:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-03T21:20:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-05-03T10:12:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-03T18:14:00: Test: add unit tests for edge cases
+Fixed Activity at 2024-05-06T20:01:00: Optimize: data loading strategy
