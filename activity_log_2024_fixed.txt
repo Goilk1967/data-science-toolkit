@@ -25,3 +25,4 @@ Fixed Activity at 2024-05-06T14:45:00: Optimize: data loading strategy
 Fixed Activity at 2024-05-06T13:48:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-07T20:14:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-05-07T16:45:00: Optimize: data loading strategy
+Fixed Activity at 2024-05-07T19:33:00: Optimize: data loading strategy
