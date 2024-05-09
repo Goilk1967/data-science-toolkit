@@ -37,3 +37,4 @@ Fixed Activity at 2024-05-08T18:20:00: Optimize: data loading strategy
 Fixed Activity at 2024-05-09T16:35:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-05-09T16:46:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-05-09T18:57:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-05-09T11:11:00: Fix: resolve memory leak in inference engine
