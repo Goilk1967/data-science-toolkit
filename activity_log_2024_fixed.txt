@@ -41,3 +41,4 @@ Fixed Activity at 2024-05-09T11:11:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2024-05-09T17:51:00: Optimize: data loading strategy
 Fixed Activity at 2024-05-09T20:22:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-09T10:09:00: Improve: logging and monitoring system
+Fixed Activity at 2024-05-10T17:35:00: Test: add unit tests for edge cases
