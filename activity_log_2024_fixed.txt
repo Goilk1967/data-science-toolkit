@@ -60,3 +60,4 @@ Fixed Activity at 2024-05-16T12:01:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-16T19:18:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-05-16T17:31:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-05-16T19:01:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2024-05-17T19:57:00: Refactor: simplify data transformation pipeline
