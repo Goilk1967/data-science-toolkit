@@ -85,3 +85,4 @@ Fixed Activity at 2024-05-21T17:23:00: Feature: add support for distributed proc
 Fixed Activity at 2024-05-21T18:54:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-22T13:25:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-22T09:15:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-05-22T09:52:00: Test: add unit tests for edge cases
