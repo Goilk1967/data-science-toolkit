@@ -231,3 +231,4 @@ Fixed Activity at 2024-06-28T16:53:00: Update: internal model parameters
 Fixed Activity at 2024-06-28T16:31:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-06-28T11:50:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-06-28T14:32:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-06-28T11:32:00: Docs: update API documentation and examples
