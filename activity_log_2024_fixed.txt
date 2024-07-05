@@ -256,3 +256,4 @@ Fixed Activity at 2024-07-05T10:41:00: Update: internal model parameters
 Fixed Activity at 2024-07-05T13:58:00: Optimize: data loading strategy
 Fixed Activity at 2024-07-05T19:46:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-07-05T13:53:00: Optimize: data loading strategy
+Fixed Activity at 2024-07-05T19:17:00: Refine: inference logic for edge devices
