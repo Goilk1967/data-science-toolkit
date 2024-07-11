@@ -278,3 +278,4 @@ Fixed Activity at 2024-07-10T09:28:00: Style: improve code readability and forma
 Fixed Activity at 2024-07-10T21:15:00: Improve: logging and monitoring system
 Fixed Activity at 2024-07-11T21:50:00: Optimize: data loading strategy
 Fixed Activity at 2024-07-11T15:31:00: Optimize: data loading strategy
+Fixed Activity at 2024-07-11T18:53:00: Fix: resolve memory leak in inference engine
