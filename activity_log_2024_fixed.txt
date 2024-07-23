@@ -307,3 +307,4 @@ Fixed Activity at 2024-07-19T16:18:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-07-19T21:17:00: Docs: update API documentation and examples
 Fixed Activity at 2024-07-19T21:51:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-07-19T13:12:00: Update: internal model parameters
+Fixed Activity at 2024-07-22T20:44:00: Feature: add support for distributed processing
