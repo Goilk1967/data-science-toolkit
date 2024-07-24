@@ -319,3 +319,4 @@ Fixed Activity at 2024-07-23T21:20:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-07-24T21:26:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-07-24T21:27:00: Docs: update API documentation and examples
 Fixed Activity at 2024-07-24T19:00:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-07-24T19:18:00: Docs: update API documentation and examples
