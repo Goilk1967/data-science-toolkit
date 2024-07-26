@@ -322,3 +322,4 @@ Fixed Activity at 2024-07-24T19:00:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-07-24T19:18:00: Docs: update API documentation and examples
 Fixed Activity at 2024-07-25T11:54:00: Docs: update API documentation and examples
 Fixed Activity at 2024-07-25T12:38:00: Style: improve code readability and formatting
+Fixed Activity at 2024-07-25T21:48:00: Test: add unit tests for edge cases
