@@ -368,3 +368,4 @@ Fixed Activity at 2024-08-07T13:08:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-08-08T16:43:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-08-08T09:41:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-09T10:34:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-08-09T13:50:00: Optimize: data loading strategy
