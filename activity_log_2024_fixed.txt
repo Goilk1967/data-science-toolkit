@@ -371,3 +371,4 @@ Fixed Activity at 2024-08-09T10:34:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-08-09T13:50:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-09T13:05:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-09T11:29:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-08-09T20:09:00: Chore: update dependencies and build scripts
