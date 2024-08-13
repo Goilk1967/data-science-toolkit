@@ -373,3 +373,4 @@ Fixed Activity at 2024-08-09T13:05:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-09T11:29:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-08-09T20:09:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-08-12T12:24:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-08-12T21:55:00: Test: add unit tests for edge cases
