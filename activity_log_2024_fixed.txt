@@ -447,3 +447,4 @@ Fixed Activity at 2024-08-29T11:08:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-08-29T19:14:00: Update: internal model parameters
 Fixed Activity at 2024-08-30T19:29:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-30T10:03:00: Update: internal model parameters
+Fixed Activity at 2024-08-30T15:34:00: Docs: update API documentation and examples
