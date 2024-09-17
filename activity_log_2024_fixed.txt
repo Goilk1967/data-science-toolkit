@@ -510,3 +510,4 @@ Fixed Activity at 2024-09-13T20:40:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-09-16T20:06:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-09-16T09:46:00: Style: improve code readability and formatting
 Fixed Activity at 2024-09-16T19:33:00: Optimize: data loading strategy
+Fixed Activity at 2024-09-17T09:16:00: Refactor: optimize performance in core module
