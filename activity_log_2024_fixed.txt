@@ -827,3 +827,4 @@ Fixed Activity at 2024-12-16T21:43:00: Feature: add support for distributed proc
 Fixed Activity at 2024-12-17T18:55:00: Feature: add support for distributed processing
 Fixed Activity at 2024-12-17T11:00:00: Optimize: data loading strategy
 Fixed Activity at 2024-12-17T15:58:00: Optimize: data loading strategy
+Fixed Activity at 2024-12-18T17:22:00: Optimize: data loading strategy
