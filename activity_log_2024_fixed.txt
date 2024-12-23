@@ -846,3 +846,4 @@ Fixed Activity at 2024-12-23T14:32:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-12-23T09:16:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-12-23T10:54:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-12-23T16:41:00: Update: internal model parameters
+Fixed Activity at 2024-12-23T18:22:00: Refactor: simplify data transformation pipeline
