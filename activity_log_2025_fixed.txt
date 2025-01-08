@@ -10,3 +10,4 @@ Fixed Activity at 2025-01-06T15:16:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-01-06T18:21:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-01-06T17:01:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-01-06T09:11:00: Docs: update API documentation and examples
+Fixed Activity at 2025-01-07T19:06:00: Test: add unit tests for edge cases
