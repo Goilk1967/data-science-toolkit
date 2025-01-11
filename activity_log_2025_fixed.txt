@@ -27,3 +27,4 @@ Fixed Activity at 2025-01-09T19:26:00: Optimize: data loading strategy
 Fixed Activity at 2025-01-09T20:46:00: Feature: add support for distributed processing
 Fixed Activity at 2025-01-10T14:19:00: Feature: add support for distributed processing
 Fixed Activity at 2025-01-10T19:07:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-01-10T19:25:00: Optimize: data loading strategy
