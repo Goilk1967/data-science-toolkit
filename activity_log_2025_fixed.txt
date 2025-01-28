@@ -87,3 +87,4 @@ Fixed Activity at 2025-01-27T21:23:00: Feature: add support for distributed proc
 Fixed Activity at 2025-01-28T18:37:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-01-28T16:15:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-01-28T14:23:00: Docs: update API documentation and examples
+Fixed Activity at 2025-01-28T10:27:00: Docs: update API documentation and examples
