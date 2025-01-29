@@ -94,3 +94,4 @@ Fixed Activity at 2025-01-28T19:53:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-01-28T14:11:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-01-28T12:10:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-01-28T21:06:00: Feature: add support for distributed processing
+Fixed Activity at 2025-01-29T09:05:00: Fix: resolve memory leak in inference engine
