@@ -112,3 +112,4 @@ Fixed Activity at 2025-01-30T19:24:00: Improve: logging and monitoring system
 Fixed Activity at 2025-01-31T10:42:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-01-31T10:39:00: Improve: logging and monitoring system
 Fixed Activity at 2025-01-31T13:40:00: Optimize: data loading strategy
+Fixed Activity at 2025-02-03T16:58:00: Fix: resolve memory leak in inference engine
