@@ -188,3 +188,4 @@ Fixed Activity at 2025-02-25T13:35:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-02-25T18:28:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-02-25T21:09:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-25T09:58:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2025-02-26T16:44:00: Refine: inference logic for edge devices
