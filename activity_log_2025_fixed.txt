@@ -603,3 +603,4 @@ Fixed Activity at 2025-06-27T13:15:00: Style: improve code readability and forma
 Fixed Activity at 2025-06-27T17:16:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-06-27T18:31:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-06-27T14:17:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-06-27T15:19:00: Fix: resolve memory leak in inference engine
