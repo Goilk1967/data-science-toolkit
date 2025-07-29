@@ -693,3 +693,4 @@ Fixed Activity at 2025-07-28T14:27:00: Update: internal model parameters
 Fixed Activity at 2025-07-28T10:26:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-07-28T12:41:00: Optimize: data loading strategy
 Fixed Activity at 2025-07-28T20:51:00: Optimize: data loading strategy
+Fixed Activity at 2025-07-29T19:02:00: Refactor: simplify data transformation pipeline
