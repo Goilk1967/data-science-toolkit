@@ -782,3 +782,4 @@ Fixed Activity at 2025-08-18T18:29:00: Refactor: optimize performance in core mo
 Fixed Activity at 2025-08-18T11:38:00: Docs: update API documentation and examples
 Fixed Activity at 2025-08-18T13:04:00: Docs: update API documentation and examples
 Fixed Activity at 2025-08-18T15:32:00: Update: internal model parameters
+Fixed Activity at 2025-08-19T12:44:00: Test: add unit tests for edge cases
