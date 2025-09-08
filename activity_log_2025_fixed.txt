@@ -850,3 +850,4 @@ Fixed Activity at 2025-09-05T13:53:00: Update: internal model parameters
 Fixed Activity at 2025-09-05T17:12:00: Update: internal model parameters
 Fixed Activity at 2025-09-05T16:36:00: Optimize: data loading strategy
 Fixed Activity at 2025-09-08T16:31:00: Refactor: optimize performance in core module
+Fixed Activity at 2025-09-08T16:23:00: Test: add unit tests for edge cases
