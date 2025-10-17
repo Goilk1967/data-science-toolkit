@@ -984,3 +984,4 @@ Fixed Activity at 2025-10-17T11:03:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-10-17T14:59:00: Update: internal model parameters
 Fixed Activity at 2025-10-17T11:30:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-10-17T19:45:00: Docs: update API documentation and examples
+Fixed Activity at 2025-10-17T14:48:00: Refactor: optimize performance in core module
