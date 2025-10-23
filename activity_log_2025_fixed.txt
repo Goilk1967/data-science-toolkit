@@ -1004,3 +1004,4 @@ Fixed Activity at 2025-10-22T18:49:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-10-23T17:32:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-10-23T09:29:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-10-23T11:01:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-10-23T18:00:00: Docs: update API documentation and examples
