@@ -1089,3 +1089,4 @@ Fixed Activity at 2025-11-13T13:04:00: Refactor: optimize performance in core mo
 Fixed Activity at 2025-11-13T21:34:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-11-13T14:44:00: Update: internal model parameters
 Fixed Activity at 2025-11-14T19:59:00: Update: internal model parameters
+Fixed Activity at 2025-11-14T13:33:00: Fix: resolve memory leak in inference engine
